@@ -1,0 +1,7 @@
+{
+    "extends": ["plugin:html/recommended", "prettier"],
+    "plugins": ["html", "prettier"],
+    "rules": {
+        "prettier/prettier": ["error"]
+    }
+}
